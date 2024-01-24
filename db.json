@@ -1,0 +1,108 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "BLISS NECKLACE",
+        "image": "images/cornelia-ng-2zHQhfEpisc-unsplash.jpg",
+        "price": 3000
+      },
+      {
+        "id": 2,
+        "name": "ESMA BRACELET",
+        "image": "images/sabrianna-2z7MxnXQs3k-unsplash.jpg",
+        "price": 1000
+      },
+      {
+        "id": 3,
+        "name": "JOCALE JEWELCASE",
+        "image": "images/paige-johnson-t1Vl9td2-uc-unsplash.jpg",
+        "price": 1500
+      },
+      {
+        "id": 4,
+        "name": "AIMEE ANKLET",
+        "image": "images/bhawana-priyadarshini-YXLDZaa1an8-unsplash.jpg",
+        "price": 1000
+      },
+      {
+        "id": 5,
+        "name": "DINNA EARINGS",
+        "image": "images/daihana-monares-oWFPDjxuyUM-unsplash.jpg",
+        "price": 500
+      }
+
+    ],
+    "container": [
+        {
+            "id": 1,
+            "image": "images/andres-vera-202NAwjisYA-unsplash.jpg",
+            "alt": "img-1",
+            "name": "DYLAN NECKLACE",
+            "price": 2500
+          },
+          {
+            "id": 2,
+            "image": "images/carmen-alarcon-xUDN8tHnUeg-unsplash.jpg",
+            "alt": "img-2",
+            "name": "PEACE EARINGS",
+            "price": 500
+          },
+          {
+            "id": 3,
+            "image": "images/cornelia-ng-zZLhoEwGCeM-unsplash.jpg",
+            "alt": "img-3",
+            "name": "PRECIOUS RING",
+            "price": 3500
+          },
+          {
+            "id": 4,
+            "image": "images/eve-maier-7uQQHORcTpc-unsplash.jpg",
+            "alt": "img-4",
+            "name": "YUSTA NECKLACE",
+            "price": 2500
+          },
+          {
+            "id": 5,
+            "image": "images/nataliya-melnychuk-5ngCICAXiH0-unsplash.jpg",
+            "alt": "img-5",
+            "name": "BRIE EARINGS",
+            "price": 500
+          },
+          {
+            "id": 6,
+            "image": "images/paige-johnson-t1Vl9td2-uc-unsplash.jpg",
+            "alt": "img-6",
+            "name": "JOCALE JEWELCASE",
+            "price": 1500
+          },
+          {
+            "id": 7,
+            "image": "images/birmingham-museums-trust-_K7lvl85QH0-unsplash.jpg",
+            "alt": "img-7",
+            "name": "ADELAIDE NECKLACE",
+            "price": 2500
+          },
+          {
+            "id": 8,
+            "image": "images/nataliya-melnychuk-oO0JAOJhquk-unsplash.jpg",
+            "alt": "img-8",
+            "name": "SHAN BRACELET",
+            "price": 1500
+          },
+          {
+            "id": 9,
+            "image": "images/paige-johnson-6evFCqzZgFY-unsplash.jpg",
+            "alt": "img-9",
+            "name": "SLY JEWELCASE",
+            "price": 1500
+          },
+          {
+            "id": 10,
+            "image": "images/carlos-esteves-1MWbwTaeJIA-unsplash.jpg",
+            "alt": "img-10",
+            "name": "DMYRIE BRACELET",
+            "price": 3500
+          }
+    ]
+  }
+  
